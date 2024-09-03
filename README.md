@@ -1,2 +1,2 @@
 # .github
-RepositoryReadme
+Welcome to the *Trinity Quantum Information Theory Group* code repository!
